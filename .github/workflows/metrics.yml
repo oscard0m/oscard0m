@@ -34,7 +34,7 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 3237248
-          plugin_stargazers: yes
+          plugin_stargazers: no
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
