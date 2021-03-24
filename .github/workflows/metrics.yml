@@ -34,3 +34,4 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 3237248
+          plugin_stargazers: yes
