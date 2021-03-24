@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/oscard0m?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&stackoverflow=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stackoverflow.user=3237248&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Europe%2FMadrid)
+![Metrics](https://github.com/oscard0m/oscard0m/blob/master/github-metrics.svg)
