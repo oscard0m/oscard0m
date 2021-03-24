@@ -40,7 +40,7 @@ jobs:
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
           plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
           plugin_reactions_details: count, percentage # Display reactions count and percentage
