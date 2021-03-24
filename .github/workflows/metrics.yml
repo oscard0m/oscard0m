@@ -29,7 +29,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_stackoverflow: yes
+          plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_sections: answers-top, questions-recent
