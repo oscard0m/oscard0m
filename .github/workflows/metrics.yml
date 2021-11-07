@@ -18,7 +18,7 @@ jobs:
           # Options
           user: oscard0m
           template: classic
-          base: header, activity
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
           plugin_followup: no
           plugin_introduction: no
