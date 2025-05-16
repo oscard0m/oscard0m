@@ -14,8 +14,8 @@ I'm a Software Engineer who started his journey as a web developer and fell in l
 - You can read what [I'm up to now](https://www.oscardom.dev/now) as well.
 ### Say hi! 😎
    - <img src="https://user-images.githubusercontent.com/2574275/189500553-685e13bf-d320-4399-9170-6444d4653d11.png" alt="twitter logo" height="16px"> Twitter: [`@oscard0m_`](https://twitter.com/oscard0m_)
-   - <img src="https://user-images.githubusercontent.com/2574275/220764474-36f7a98d-9393-433a-95b9-3743046c5ebc.png" alt="twitter logo" height="16px"> Mastodon: [`@oscard0m@mozilla.social`](https://mastodon.social/@oscardom)
-   - <img src="https://github.com/user-attachments/assets/a21a249b-3428-4358-8f2e-325cd7a3203c" alt="bluesky logo" height="16px"> Bluesky: [`@oscard0m@mozilla.social`](https://bsky.app/profile/oscard0m.bsky.social)
+   - <img src="https://user-images.githubusercontent.com/2574275/220764474-36f7a98d-9393-433a-95b9-3743046c5ebc.png" alt="twitter logo" height="16px"> Mastodon: [`@oscard0m@mastodon.social`](https://mastodon.social/@oscardom)
+   - <img src="https://github.com/user-attachments/assets/2485addf-6f8c-4307-8b83-33e1c96bdd39" alt="bluesky logo" height="16px"> Bluesky: [`@oscard0m.bsky.social`](https://bsky.app/profile/oscard0m.bsky.social)
 
 ## My stats in :octocat:
 [![oscard0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscard0m&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
